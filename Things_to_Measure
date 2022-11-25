@@ -1,0 +1,25 @@
+Things to measure
+
+IBU (International Bittering Units)
+SRM (Colour)
+pH (acidity) 
+Ca (Calcium)
+Mg (Magnesium) - Acts as yeast nutrient 
+HC03 (Bicarbonate) 
+Cl (Chloride) - Flavour and mouthfeel of beer
+Na (Sodium) - Not needed, happens in background or when adding table salt for adjusting water chemistry
+S03 (Sulphate)
+DO (Dissolved oxygen) 
+
+Ways to measure
+Hopefully: optical for the majority of the items. It is a big maybe. 
+
+Day of brewing, optical is not going to be a good method. This is likely due to it likely being a time-consuming measurement. 
+Current homebrewing technology uses a glassbulb reference, which needs to be kept in solution between uses. These tend to malfunction on a short-ish time scale. I would like to look into building a solid-state pH and DO sensor for day of brewing. 
+
+Sources:
+http://howtobrew.com/book/section-3/understanding-the-mash-ph/reading-a-water-report
+
+Beersmith software -> https://beersmith.com/
+
+Bru’n water calculations -> https://www.brunwater.com/download
